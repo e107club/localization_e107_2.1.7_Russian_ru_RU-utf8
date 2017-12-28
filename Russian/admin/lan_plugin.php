@@ -4,7 +4,7 @@
 |        e107 website content management system Russian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/25 20:26:21
+|        Last Modified: 2017/12/28 02:27:21
 |
 |        $Author: net1313 $
 +---------------------------------------------------------------+
@@ -106,8 +106,8 @@ define("EPL_ADLAN_99", "Сообщения об ошибках выше");
 define("EPL_ADLAN_100", "Нажмите здесь, чтобы установить некоторые");
 define("EPL_ADLAN_101", "Плагины не установлены - [x].");
 define("EPL_ADLAN_102", "Этот ассистент создаст админ-панель для плагина и сгенерирует метафайл plugin.xml. Но прежде чем начать:");
-define("EPL_ADLAN_103", "Создайте новую папку с правами для записи в каталоге [x], например [b]MyPlugin[/b]");
-define("EPL_ADLAN_105", "Создайте свою таблицу, используя phpMyAdmin в той же базе данных, что и e107, и с тем же префиксом таблицы. Например [b]e107_myplugin[/b]");
+define("EPL_ADLAN_103", "Создайте новую папку с правами для записи в каталоге [x], например MyPlugin");
+define("EPL_ADLAN_105", "Создайте свою таблицу, используя phpMyAdmin в той же базе данных, что и e107, и с тем же префиксом таблицы. Например e107_myplugin");
 define("EPL_ADLAN_106", "Выберите папку своего плагина");
 define("EPL_ADLAN_107", "Создать админ-панель и xml-файл для:");
 define("EPL_ADLAN_108", "Проверить файлы локализации:");
