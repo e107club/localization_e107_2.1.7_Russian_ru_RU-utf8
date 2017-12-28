@@ -75,7 +75,7 @@ define("ADLAN_103", "Нажмите здесь, чтобы сменить его
 define("ADLAN_104", "Безопасность");
 define("ADLAN_105", "Изображения");
 define("ADLAN_106", "Настройки изображений");
-define("ADLAN_110", "Зарегистрированых");
+define("ADLAN_110", "Пользователям");
 define("ADLAN_111", "Непроверенных");
 define("ADLAN_112", "Забаненных");
 define("ADLAN_116", "Логи админов...");
@@ -267,7 +267,7 @@ define("LAN_MOREINFO", "Подробнее...");
 define("LAN_COMMENTMAN", "Комментарии");
 define("LAN_LIST", "Оглавление");
 define("LAN_FILTER", "Фильтр");
-define("LAN_STATUS", "Активность на сайте");
+define("LAN_STATUS", "Статус");
 define("LAN_URL", "URL-аргумент");
 define("LAN_OWNER", "Владелец");
 define("LAN_PURCHASE", "Купить");
