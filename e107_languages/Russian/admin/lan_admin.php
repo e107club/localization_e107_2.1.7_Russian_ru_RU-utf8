@@ -322,7 +322,7 @@ define("LAN_MENULAYOUT", "Шаблон Меню");
 define("LAN_MEDIAMANAGER", "Медиа");
 
 define("LAN_MOREINFO", "Подробнее...");
-define("LAN_COMMENTMAN", "Управление камментами");
+define("LAN_COMMENTMAN", "Комментарии");
 
 define("LAN_LIST", "Оглавление");
 define("LAN_FILTER", "Фильтр");
