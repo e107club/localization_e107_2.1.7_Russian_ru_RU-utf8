@@ -4,7 +4,7 @@
 |        e107 website content management system Russian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/07 04:05:40
+|        Last Modified: 2017/12/28 02:44:40
 |
 |        $Author: net1313 $
 +---------------------------------------------------------------+
@@ -118,4 +118,5 @@ define("DBLAN_118", "Не удалось загрузить .zip-файл");
 define("DBLAN_119", "Резервное копирование");
 define("DBLAN_120", "Начало резервного копирования....");
 define("DBLAN_121", "Переместить [x] в [y]");
+
 ?>
