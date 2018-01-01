@@ -432,7 +432,7 @@ define("LAN_GEN_PW", "Сгенерировать пароль");
 define("LAN_DISPL_PW", "Показать пароль");
 define("LAN_WILL_OVERWRITE_SEF", "Перезапишет текущий SEF URL");
 
-define("LAN_CAPTION", "Подпись");
+define("LAN_CAPTION", "Заголовок");
 define("LAN_LIMIT", "Ограничение");
 define("LAN_BASIC", "Основное");
 define("LAN_EXTENDED", "Дополнительное");
