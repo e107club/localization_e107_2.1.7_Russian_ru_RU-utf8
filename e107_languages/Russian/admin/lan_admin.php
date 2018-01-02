@@ -327,7 +327,7 @@ define("LAN_COMMENTMAN", "Комментарии");
 define("LAN_LIST", "Оглавление");
 define("LAN_FILTER", "Фильтр");
 
-define("LAN_STATUS", "Статус");
+define("LAN_STATUS", "Текущее состояние");
 
 define("LAN_URL", "URL-аргумент");
 define("LAN_OWNER", "Владелец");
