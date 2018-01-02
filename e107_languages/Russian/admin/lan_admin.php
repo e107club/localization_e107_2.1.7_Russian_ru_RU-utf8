@@ -4,7 +4,7 @@
 |        e107 website content management system Russian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/28 13:01:38
+|        Last Modified: 2018/01/02 01:12:38
 |
 |        $Author: net1313 $
 +---------------------------------------------------------------+
@@ -339,7 +339,7 @@ define("LAN_ID", "ID");
 define("LAN_TEST", "Проверить");
 
 define("LAN_VISIBILITY", "Видимость");
-define("LAN_VISIBLE_TO", "Увидят ");
+define("LAN_VISIBLE_TO", "Видно только ");
 define("LAN_PARENT", "Родитель");
 
 define("LAN_ICON", "Значок");

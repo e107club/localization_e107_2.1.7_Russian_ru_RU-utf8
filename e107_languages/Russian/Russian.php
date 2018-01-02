@@ -4,7 +4,7 @@
 |        e107 website content management system Russian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/12/25 18:28:00
+|        Last Modified: 2018/01/02 01:14:00
 |        $Author: net1313 $ 
 +---------------------------------------------------------------+
 */
@@ -48,7 +48,7 @@ define("LAN_LESS", "..Меньше");
 define("LAN_READ_MORE", "Подробнее...");
 define("LAN_GOPAGE", "Перейти на страницу");
 define("LAN_GOTOPAGEX", "Перейти на страницу [x]");
-define("LAN_GO", "Начать");
+define("LAN_GO", "Применить");
 define("LAN_SUBMIT", "Отправить");
 define("LAN_NONE", "Нет");
 define("LAN_WARNING", "Предупреждение!");
