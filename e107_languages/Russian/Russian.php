@@ -55,7 +55,7 @@ define("LAN_WARNING", "Предупреждение!");
 define("LAN_ERROR", "Ошибка");
 define("LAN_ANONYMOUS", "Анонимный");
 define("LAN_EMAIL_SUBS", "-email-");
-define("LAN_ACTIVE", "Проверен");
+define("LAN_ACTIVE", "Вкл");
 define("LAN_YES", "Да");
 define("LAN_NO", "Нет");
 define("LAN_OK", "OK");
