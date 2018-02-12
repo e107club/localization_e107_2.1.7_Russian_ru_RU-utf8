@@ -20,7 +20,7 @@ define("UE_LAN_9", "Предустановленный список");
 define("UE_LAN_10", "Флажки");
 define("UE_LAN_13", "Страна");
 define("UE_LAN_21", "Имя");
-define("UE_LAN_22", "Тип");
+define("UE_LAN_22", "Тип данных");
 define("UE_LAN_23", "Использование");
 define("UE_LAN_HIDE", "Скрыть от пользователей");
 define("UE_LAN_LOCATION", "Местоположение");
