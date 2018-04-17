@@ -20,7 +20,7 @@
 ***
 ### English:
 
-**Name:**		Russian Language Pack for e107 v2.1.7
+**Name:**		Russian Language Pack e107 CMS
 
 **Description:**		Translation of the Admin Panel, translation of some plugins and themes Bootstrap3.
 
