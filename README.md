@@ -37,4 +37,6 @@
 ***
 **Homepage:** https://github.com/e107club/localization_e107_2.1.7_Russian_ru_RU-utf8
 
-© [e107 Club](http://e107club.ru), net1313, 2018. All Rights Reserved.
+© net1313, 2018. All Rights Reserved.
+
+© [e107 Club](http://e107club.ru), 2018. All Rights Reserved.
