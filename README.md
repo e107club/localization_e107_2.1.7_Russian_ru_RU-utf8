@@ -33,6 +33,6 @@
 ***
 **Homepage:** https://github.com/e107club/localization_e107_2.1.7_Russian_ru_RU-utf8
 
-**Discussion:** http://www.e107club.ru/plugins/forum/forum_viewtopic.php?66838.20#post_66853
+**Discussion:** http://www.e107club.ru/plugins/forum/forum_viewtopic.php?66855.post
 
 © «net1313», 2018. All Rights Reserved.
