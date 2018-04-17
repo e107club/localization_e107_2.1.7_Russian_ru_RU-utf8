@@ -9,7 +9,7 @@
 
 **Кодировка:**		utf8 without BOM
 
-**Версия перевода:**		Полная
+**Версия перевода:**		Предварительный выпуск
 
 **Версия e107cms:**		2.1.7
 
@@ -24,7 +24,7 @@
 
 **Charset:**		utf8 without BOM
 
-**Translation version:**		Full-release
+**Translation version:**		Pre-release
 
 **Version e107cms:**		2.1.7
 
