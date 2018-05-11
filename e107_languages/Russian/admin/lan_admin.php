@@ -214,7 +214,7 @@ define("LAN_UPDATED_FAILED", "Не удалось обновить");
 define("LAN_NO_CHANGE", "Обновление не удалось, так как никакие изменения не были внесены.");
 
 define("LAN_TRY_AGAIN", "Пожалуйста, попробуйте снова");
-define("LAN_NEVER", "Никогда");
+define("LAN_NEVER", "Не истекает");
 define("LAN_PRUNE", "Удалить");
 define("LAN_RESET", "Сброс");
 define("LAN_CLEAR", "Очистить");
@@ -288,6 +288,7 @@ define("LAN_UPLOAD_CONFIRM", "Любые несохраненные измене
 define("LAN_UPLOAD_777", "Каталог отсутствует или не открыт для записи, вам нужно сделать CHMOD 777 для следующего каталога перед загрузкой на сервер:");
 define("LAN_UPLOAD_SERVEROFF", "Этот параметр отключен, так как загрузка файлов не включена на вашем сервере");
 define("LAN_WIDTH", "Ширина");
+define("LAN_HEIGHT","Высота");
 
 define("LAN_ON", "Да");
 define("LAN_OFF", "Нет");
@@ -467,9 +468,18 @@ define("LAN_ENGINE", "Метод размещения камментов");
 define("LAN_SOURCE", "Источник");
 
 define("LAN_ERROR_CONNECTION", "Не удается подключиться для обновлений. Проверьте настройки брандмауэра, или подключение к Интернету.");
+
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] не может быть таким же, как [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Просмотр грида");
 define("LAN_UI_VIEW_LIST_LABEL", "Просмотр списка");
 define("LAN_CHECKING_FOR_UPDATES", "Проверка обновлений");
+
+define("LAN_UI_FILTER_NEXT_HOUR", "В следующий час");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "В следующие 24 часа");
+define("LAN_UI_FILTER_NEXT_WEEK", "В следующую неделю");
+define("LAN_UI_FILTER_NEXT_MONTH", "В следующий месяц");
+define("LAN_UI_FILTER_NEXT_YEAR", "В следующем году");
+define("LAN_UI_FILTER_IS_EMPTY", "Не указано");
+
 
 ?>
