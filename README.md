@@ -39,4 +39,4 @@
 
 © net1313, 2018. All Rights Reserved.
 
-© [e107 Club](http://e107club.ru), 2018. All Rights Reserved.
+© [e107 Club](http://www.e107club.ru), 2018. All Rights Reserved.
