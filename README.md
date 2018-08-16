@@ -1,4 +1,3 @@
-![e107club](https://downloader.disk.yandex.ru/preview/2c9832c75b5638f9ed2aeb1fbd0161c73dc811d15729eaabfb1f3305588e47a3/5ad59e9d/stiqGIFeNhpiLAWbgW36iJZ0T5Ha7e3tzZ9V5vynXpTO6QWVz8KIqy5ujPwGMQQYnSSy8nVNiNTg_Zeu0DeBkw%3D%3D?uid=0&filename=e107club_84x84.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1920x1008)
 # Localization_e107_2.1.7_Russian_ru_RU-utf8
 
 ### Русский:
